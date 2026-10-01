@@ -1,0 +1,6 @@
+Prototypes=11
+GrassCells=128414
+FlowerCells=42814
+FlowerVariants=10
+Trees=230
+DetailResolution=512

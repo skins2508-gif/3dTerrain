@@ -1,0 +1,4 @@
+Prototypes=2
+GrassInstances=1733579
+FlowerInstances=57096
+Trees=230
